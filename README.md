@@ -3,6 +3,15 @@
 ## 自我介紹
 。。。
 
+```c
+#include <stdio.h>
+int main()
+{
+  printf("Hello World!\n");
+  return 0;
+}
+```
+
 ## 興趣
 玩電腦
 
